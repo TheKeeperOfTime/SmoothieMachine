@@ -5,4 +5,4 @@
  * @author SpencerHaggard
  *
  */
-package Fruit;
+package Smoothie;
